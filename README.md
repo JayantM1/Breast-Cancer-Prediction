@@ -1,4 +1,3 @@
-# Breast-Cancer-Prediction
 # Breast Cancer Prediction 🧬🎯
 
 This project demonstrates a machine learning approach to predict whether a tumor is malignant or benign based on features extracted from breast cancer biopsies. The model uses the famous Breast Cancer Wisconsin dataset available in Scikit-learn.
@@ -60,9 +59,13 @@ The notebook includes comparison across multiple models. Final accuracy and eval
 - Deployment using Streamlit or Flask (optional)
 - Model explainability using SHAP or LIME
 
-## 📃 License
+## Connect With me 
 
-This project is open-source and available under the [MIT License](LICENSE).
+- Linkedin - [Jayant Modak](https://www.linkedin.com/in/jayant-modak-30440b215/)
+- Gmail - jayantmodak10@gmail.com
+
+## Thanks for stopping by! 😄
+
 
 ---
 
